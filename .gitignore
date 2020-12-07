@@ -1,0 +1,7 @@
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+.vscode
+exp/
+*_pickle
+/*.png
